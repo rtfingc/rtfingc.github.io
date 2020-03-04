@@ -61,6 +61,7 @@ header {
 }
 
 .header-link {
+  text-decoration: none;
   display: inline;
 }
 
@@ -81,7 +82,6 @@ header h1 {
 }
 
 header h2 {
-  text-decoration: none;
   font-size: 18px;
   font-weight: 300;
   color: #bbb;
