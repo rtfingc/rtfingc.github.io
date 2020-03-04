@@ -30,3 +30,5 @@ plugins:
 # Custom variables
 owner : "PwnRabb1t"
 year : "2020"
+
+excerpt_separator:  '<!-- more -->'
