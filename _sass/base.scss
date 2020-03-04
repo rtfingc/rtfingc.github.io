@@ -81,9 +81,10 @@ header h1 {
 }
 
 header h2 {
+  text-decoration: none;
   font-size: 18px;
   font-weight: 300;
-  color: #666;
+  color: #bbb;
 }
 
 /* Main Content
@@ -267,6 +268,7 @@ a:active, a:focus {
   height: 50px;
   line-height: 50px;
   text-align: center;
+  text-decoration: none;
 }
 
 #wrapper {
