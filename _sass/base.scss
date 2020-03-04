@@ -107,6 +107,12 @@ header h2 {
 section img {
   max-width: 100%
 }
+section li:hover{
+    background-color:#666;
+}
+section a{
+  text-decoration: none;
+}
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
