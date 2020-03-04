@@ -1,7 +1,6 @@
 ---
 title: test
 published: true
-excerpt: test
 ---
 
 ### test1
