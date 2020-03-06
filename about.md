@@ -4,6 +4,10 @@ title: About
 ---
 
 
-little guy on earth.
+little one on earth.
+
+
 
 - email: sdsmcode@gmail.com
+
+- love:  freedom  + myself
